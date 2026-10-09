@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/modelcontextprotocol/ext-server-card/commit/526201bbc80231daa40ffcdecfc9da4e54e5dc93",
       "git:hexsha": "526201bbc80231daa40ffcdecfc9da4e54e5dc93",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     }
   ]
