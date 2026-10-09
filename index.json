@@ -1,0 +1,11 @@
+{
+  "org": "modelcontextprotocol",
+  "repo": "ext-server-card",
+  "versions": [
+    {
+      "commit": "526201bbc80231daa40ffcdecfc9da4e54e5dc93",
+      "tag": "main",
+      "parsed_at": "2026-10-09T07:06:25.262854+00:00"
+    }
+  ]
+}
